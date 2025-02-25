@@ -7,11 +7,13 @@ Software Engineering Day1 Assignment
 (A)Explain what software engineering is and discuss its importance in the technology industry.
 
 -Software Engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high quality Software systems.
+
 -Importance in the technology industry ->Almost all aspects of our lives are controlled by software's. From government portals, school's systems, health systems, entertainment and personal systems.We rely heavily on mobile phones and computers. Software Engineering enables the creation of software applications and systems that power these aspects of modern life.
 
 (B)Identify and describe at least three key milestones in the evolution of software engineering.
 
 -1970s and 1980s: Introduction of structured programming and object-oriented development.
+
 -1990s and 2000s: Agile methods, web-based systems, and open-source software became widespread.
 -Recent Trends: Cloud computing, AI integration, and DevOps emphasize continuous delivery and scalability.
 
@@ -27,17 +29,21 @@ Software Engineering Day1 Assignment
 (D)Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 -Waterfall: Sequential approach with distinct phases flowing ownwards like a waterfall. Waterfall model was used to develop enterprse applications like Customer Relationship Systems(CRM) systems, Supply Chain Management Systems and Inventory Management Systems.
+
 -Agile: Iterative and incremental approach focused on flexibility, collaboration and responding to change.  e.g Adobe woking on a project to come with competing product for Microsoft Word.
 
 (E)Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 -Software Developer: Responsible for writing code and implementing sofware solutions.
+
 -Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+
 -Project Manager: Oversees the planning, execution and delivery of software projects.
 
 (F)Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
--Intergrated Development Environment: Software suites that provide comprehensive tools for writing, dubugging and testing code e.g Visual Studio Code, eclipse
+-Intergrated Development Environment: Software suites that provide comprehensive tools for writing, dubugging and testing code e.g Visual Studio Code, eclipse.
+
 -Version Control System Software tools for tracking changes to source code and coordinating work among team members e.g Git, sub version.
 
 
