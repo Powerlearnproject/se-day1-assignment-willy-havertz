@@ -63,6 +63,7 @@ Cost and Time Constraints:
 2. Intergration Testing: Testing Interaction between components.
 3. System Testing: Testing the entire software system.
 4. Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+   
    -Importance of testing: Testing is a critical aspect of Quality Assuarance because it idebntifies defects early in the development process, ensuring the software functions as espected , meets user requirements, and delivers a high- quality product by preventing costly errors, improving user experience, protecting data security, and mainting compliance with industry standards.
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -70,10 +71,13 @@ Cost and Time Constraints:
 (A)Define prompt engineering and discuss its importance in interacting with AI models.
 
 -Prompt Engineering ia all about crafting questions or statements to get the possible responses from AI models.
+
 -Importance: Prompt Engineering helps AI avoid giving confusing answers by making your questions clear, consise, complete, correct and specific.
 
 (B)Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 -Vague Prompt: "Tell me about clothes.:"
+
 -Improved Prompt: "Explain the different types of clothong materials, such as cotton, wool, and sythetic fibres and discuss their advantages, disadvantages, and best uses."
+
 -Improved prompt is more effective because: It specifies which material of clothing to discuss, it provides clear instructions on what details to include and therefore the AI will generate a more informative and relevant response instead ofa broad on generic answer.
